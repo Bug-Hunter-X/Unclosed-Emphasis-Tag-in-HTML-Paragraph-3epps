@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon HTML error: an unclosed <em> tag within a paragraph. The bug.html file demonstrates the error, and bugSolution.html provides the corrected code.  This can lead to unexpected rendering issues across different browsers and assistive technologies.
